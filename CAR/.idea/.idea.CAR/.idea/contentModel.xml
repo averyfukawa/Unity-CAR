@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\angel\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\angel\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_CAR.-725015762.00" t="ExcludeRecursive" />
+    <e p="C:\Users\angel\Desktop\Saxion\4.4 Unity Game Scripting\CAR" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Imports" t="Include">
+          <e p="Day-Night Skyboxes" t="Include">
+            <e p="readme.txt" t="Include" />
+            <e p="Textures" t="Include">
+              <e p="Readme for Assigning.txt" t="Include" />
+            </e>
+          </e>
+          <e p="New Car Models" t="Include">
+            <e p="McLaren MP4-12C R-Type" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Standard Assets" t="Include">
+            <e p="CrossPlatformInput" t="Include">
+              <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AxisTouchButton.cs" t="Include" />
+                <e p="ButtonHandler.cs" t="Include" />
+                <e p="CrossPlatformInputManager.cs" t="Include" />
+                <e p="InputAxisScrollbar.cs" t="Include" />
+                <e p="Joystick.cs" t="Include" />
+                <e p="MobileControlRig.cs" t="Include" />
+                <e p="PlatformSpecific" t="Include">
+                  <e p="MobileInput.cs" t="Include" />
+                  <e p="StandaloneInput.cs" t="Include" />
+                </e>
+                <e p="TiltInput.cs" t="Include" />
+                <e p="TouchPad.cs" t="Include" />
+                <e p="VirtualInput.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Vehicles" t="Include">
+              <e p="CAR" t="Include">
+                <e p="CarGuidelines.txt" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="BrakeLight.cs" t="Include" />
+                  <e p="CarAIControl.cs" t="Include" />
+                  <e p="CarAudio.cs" t="Include" />
+                  <e p="CarController.cs" t="Include" />
+                  <e p="CarSelfRighting.cs" t="Include" />
+                  <e p="CarUserControl.cs" t="Include" />
+                  <e p="Mudguard.cs" t="Include" />
+                  <e p="SkidTrail.cs" t="Include" />
+                  <e p="Suspension.cs" t="Include" />
+                  <e p="WheelEffects.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="DiffuseReflectiveShader.shader" t="Include" />
+                  <e p="ReflectiveDiffuseSpec.shader" t="Include" />
+                  <e p="ReflectiveDiffuseSpecTransp.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+                <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+                <e p="TMP_Bitmap.shader" t="Include" />
+                <e p="TMP_SDF Overlay.shader" t="Include" />
+                <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+                <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+                <e p="TMP_SDF-Mobile.shader" t="Include" />
+                <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+                <e p="TMP_SDF-Surface.shader" t="Include" />
+                <e p="TMP_SDF.shader" t="Include" />
+                <e p="TMP_Sprite.shader" t="Include" />
+                <e p="TMPro.cginc" t="Include" />
+                <e p="TMPro_Properties.cginc" t="Include" />
+                <e p="TMPro_Surface.cginc" t="Include" />
+              </e>
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Materials" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="CarOutline.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BackCameraChange.cs" t="Include" />
+          <e p="Buttons_UI" t="Include">
+            <e p="ButtonOptions.cs" t="Include" />
+            <e p="CarChoice.cs" t="Include" />
+            <e p="CountDown.cs" t="Include" />
+            <e p="DestroyDontDestroy.cs" t="Include" />
+            <e p="DontDestroyBetweenScenes.cs" t="Include" />
+            <e p="GlobalCar.cs" t="Include" />
+            <e p="LeaveCredits.cs" t="Include" />
+            <e p="PlayerSplashScreenButtons.cs" t="Include" />
+            <e p="PlayerVelocity.cs" t="Include" />
+            <e p="QuitToMainMenu.cs" t="Include" />
+            <e p="SkyRotation.cs" t="Include" />
+            <e p="ThatsMeText.cs" t="Include" />
+          </e>
+          <e p="CameraChange.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="Car_Scripts" t="Include">
+            <e p="BrakeLights.cs" t="Include" />
+            <e p="CarManager.cs" t="Include" />
+            <e p="CarUserInput.cs" t="Include" />
+            <e p="WheelEffect.cs" t="Include" />
+          </e>
+          <e p="CarControlActive.cs" t="Include" />
+          <e p="Dreamyboi001Tracker.cs" t="Include" />
+          <e p="EndCameraRotation.cs" t="Include" />
+          <e p="halfPointTrigger.cs" t="Include" />
+          <e p="LapComplete.cs" t="Include" />
+          <e p="LapTimeController.cs" t="Include" />
+          <e p="LoadLapTime.cs" t="Include" />
+          <e p="MusicManager.cs" t="Include" />
+          <e p="PositionUp.cs" t="Include" />
+          <e p="RaceFinished.cs" t="Include" />
+          <e p="TutorialTriggers.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CAR.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

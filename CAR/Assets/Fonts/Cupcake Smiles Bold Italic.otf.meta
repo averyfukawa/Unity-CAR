@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c522fdbaf0ce5cc489f20afe146a2780
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cupcake Smiles
+  fontNames:
+  - Cupcake Smiles
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9b86a5a355328c349bbe7e713a5a8d48, type: 3}
+  - {fileID: 12800000, guid: 77f751da51f26e04ca179e1b5440fe32, type: 3}
+  - {fileID: 12800000, guid: 61b1978d33d1621499a68cf499e1878c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
